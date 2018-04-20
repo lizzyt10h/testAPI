@@ -1,0 +1,14 @@
+{
+  "name": "testAPI",
+  "version": "1.0.0",
+  "description": "Test API to Vivelab Bogotá",
+  "main": "index.js",
+  "repository": "https://github.com/lizzyt10h/testAPI.git",
+  "author": "Lizzy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15"
+  }
+}
