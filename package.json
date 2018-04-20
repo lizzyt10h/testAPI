@@ -1,5 +1,8 @@
 {
   "name": "testAPI",
+  "scripts": {
+    "start": "node index.js"
+  },
   "version": "1.0.0",
   "description": "Test API to Vivelab Bogotá",
   "main": "index.js",
